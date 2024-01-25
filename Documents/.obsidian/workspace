@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "821be3bcbe876a94",
+    "type": "split",
+    "children": [
+      {
+        "id": "6734ae9d33e1ed5e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "UConn Spring '22/2102/Lecture 18.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8867bf3159f0b7cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "fffa4dbee25d42e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2474dbb7b5bef5b2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a2bbaf8104765a54",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 251
+  },
+  "right": {
+    "id": "ee890c8b0a1a4429",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d1239b347873111",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f396bde71560d5d5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "UConn Spring '22/2102/Lecture 18.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "6734ae9d33e1ed5e",
+  "lastOpenFiles": [
+    "UConn Spring '22/2102/Lecture 18.md",
+    "UConn Spring '22/4102/2'28.md",
+    "Attachments/Screen Shot 2022-02-24 at 12.24.48 PM.png",
+    "UConn Spring '22/3150/Mod D/Part 3 (Exceptions).md",
+    "UConn Spring '22/3150/Mod D2/Part 3 (Range Loops).md",
+    "UConn Spring '22/3150/Mod C/Part 1.md",
+    "UConn Spring '22/3150/Mod C/Part 4 (References).md",
+    "UConn Spring '22/3150/Mod B/Part 6 (Pointers).md",
+    "UConn Spring '22/3150/Mod D2/Part 5 (STL & Iterators).md",
+    "UConn Spring '22/3150/Mod D2/Part 4 (Iterators).md"
+  ]
+}

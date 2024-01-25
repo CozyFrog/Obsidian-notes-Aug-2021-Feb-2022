@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "e46f3b313211a71a",
+    "type": "split",
+    "children": [
+      {
+        "id": "fbdb187f90c6e14b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "UConn Spring '22/2102/Lecture 7.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9e11db862c4d7d90",
+    "type": "split",
+    "children": [
+      {
+        "id": "7da90a187016efa0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "236cbe429f85d03e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "8ea89c183a96efcc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 167.51218795776367,
+    "collapsed": true
+  },
+  "right": {
+    "id": "e5ca2378c6dad9eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "bbbac3e01a92e419",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "59fae2ba629fcbc8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "UConn Spring '22/2102/Lecture 7.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "fbdb187f90c6e14b",
+  "lastOpenFiles": [
+    "UConn Spring '22/2102/Untitled.md",
+    "UConn Spring '22/2102/Lecture 6.md",
+    "UConn Spring '22/4102/Class Notes/2'2.md",
+    "UConn Spring '22/4102/Notes Summaries/2'2.md",
+    "UConn Spring '22/4102/Notes Summaries/Untitled.md",
+    "UConn Spring '22/4102/Untitled.md",
+    "test link.md",
+    "UConn Spring '22/4102/2'2.md",
+    "Untitled.md",
+    "UConn Spring '22/Untitled.md"
+  ]
+}

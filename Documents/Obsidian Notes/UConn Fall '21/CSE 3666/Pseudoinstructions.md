@@ -1,0 +1,23 @@
+- beqz
+	- branch if = zero
+- bnez
+	- branch if != zero
+- j
+	- jump
+- jr
+	- jump register
+- la
+	- load address
+- li (small immd)
+	- load immediate
+- mv
+	- copy register
+- neg rd, rs
+	- two's complement
+- nop
+	- no operation
+- not rd, rs
+	- one's complement
+- ret
+	- equivalent to jalr x0, x1, 0
+	- x1 holds the return address, effectively jumping to the return address.
